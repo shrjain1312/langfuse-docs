@@ -30,5 +30,9 @@
   {
     "notebook": "evaluation_of_rag_with_ragas.ipynb",
     "docsPath": null
+  },
+  {
+    "notebook": "llm_evaluations_with_uptrain.ipynb",
+    "docsPath": null
   }
 ]
